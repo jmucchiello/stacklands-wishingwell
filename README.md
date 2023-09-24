@@ -1,3 +1,3 @@
-# Stacklands Mod Template
+# Better Wishing Well
 
-For information about using the template, see the Modding Wiki
+With this mod, the wishing well will actually be helpful... sometimes.

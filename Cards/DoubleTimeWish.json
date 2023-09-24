@@ -1,0 +1,11 @@
+{
+  "id": "wishingwellmod_wish_doubletime",
+  "nameTerm": "wishingwellmod_wish_doubletime",
+  "descriptionTerm": "wishingwellmod_wish_doubletime_description",
+  "icon": "well.png",
+  "value": 1,
+  "type": "Wish",
+  "script": "DoubleTimeWish",
+  "_KnowledgeGroup": "Rumors",
+  "_Duration": 60,
+}

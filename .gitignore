@@ -1,2 +1,6 @@
+.vs/
 bin/
 obj/
+Icon Sources/
+*.user
+README.bbcode

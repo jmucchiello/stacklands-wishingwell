@@ -1,0 +1,10 @@
+{
+  "id": "wishingwellmod_rumor_zombies",
+  "nameTerm": "wishingwellmod_rumor_zombies",
+  "descriptionTerm": "wishingwellmod_rumor_zombies_description",
+  "icon": "well.png",
+  "value": 1,
+  "type": "Structure",
+  "script": "BetterWishingWell",
+  "_KnowledgeGroup": "Basic"
+}
